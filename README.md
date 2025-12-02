@@ -7,6 +7,7 @@ A comprehensive environmental monitoring system designed for autonomous outdoor 
 <img width="847" height="590" alt="Screenshot 2025-11-29 at 9 50 54 PM" src="https://github.com/user-attachments/assets/da6bb370-c7f4-49a7-84ae-6a2df201defb" />
 <img width="626" height="547" alt="Screenshot 2025-11-29 at 9 50 24 PM" src="https://github.com/user-attachments/assets/1ea0e025-81eb-43bf-8b84-14139492d735" />
 <img width="541" height="433" alt="Screenshot 2025-11-29 at 9 52 07 PM" src="https://github.com/user-attachments/assets/798035f8-af06-425f-8ddf-ccbe0df4cc02" />
+CAD HERE: https://cad.onshape.com/documents/3917813e8e408bc5bac837dc/w/75cef7411b482c89710146cd/e/4788882a9ba93eca86c5a658?renderMode=0&uiState=692f52eaac8ab6f720b0af4c
 
 ---
 
